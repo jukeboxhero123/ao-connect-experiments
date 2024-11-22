@@ -1,0 +1,18 @@
+{
+  "name": "ao-connect-experiment",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dha-team/arbundles": "^1.0.1",
+    "@permaweb/aoconnect": "^0.0.59",
+    "axios": "^1.7.7",
+    "warp-arbundles": "^1.0.4"
+  }
+}
